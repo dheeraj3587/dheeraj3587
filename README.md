@@ -95,6 +95,7 @@ Backend services for structured data evaluation workflows, validation pipelines,
 </div>
 
 ---
+[![dheeraj3587 Nuxter profile](https://nuxters.nuxt.com/card/dheeraj3587/og.png)](https://nuxters.nuxt.com/dheeraj3587)
 
 <div align="center">
   <sub>Building systems that scale, rank, and perform.</sub>
