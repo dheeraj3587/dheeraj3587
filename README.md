@@ -100,3 +100,12 @@ Backend services for structured data evaluation workflows, validation pipelines,
 <div align="center">
   <sub>Building systems that scale, rank, and perform.</sub>
 </div>
+
+
+<!-- GITHUBWALLPAPER:START -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubwallpaper.com/api/card/kbrfdmvydcfv8abqjtug0gud?theme=dark&v=b8e1f5e38ba3">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubwallpaper.com/api/card/kbrfdmvydcfv8abqjtug0gud?theme=light&v=b8e1f5e38ba3">
+  <img alt="GitHub profile card" src="https://githubwallpaper.com/api/card/kbrfdmvydcfv8abqjtug0gud?theme=dark&v=b8e1f5e38ba3">
+</picture>
+<!-- GITHUBWALLPAPER:END -->
